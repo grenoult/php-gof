@@ -1,0 +1,13 @@
+{
+    "name": "guillaume/php-gof",
+    "authors": [
+        {
+            "name": "Guillaume Renoult",
+            "email": "guillaume.renoult@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Adapter\\": "adapter/"}
+    }
+}
