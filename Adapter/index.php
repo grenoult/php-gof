@@ -12,7 +12,6 @@
  *  - Client (index.php): where we use this interface
  *  - Adaptee (TextView): the existing interface that needs adapting
  *  - Adapter (TextShape): our new class that adapts interface of Adaptee to Target interface
- *  -
  */
 
 namespace Adapter;
