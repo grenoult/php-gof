@@ -8,6 +8,9 @@
     ],
     "require": {},
     "autoload": {
-        "psr-4": {"Adapter\\": "adapter/"}
+        "psr-4": {
+            "Adapter\\": "Adapter/",
+            "Composite\\": "Composite/"
+        }
     }
 }
