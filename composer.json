@@ -10,7 +10,9 @@
     "autoload": {
         "psr-4": {
             "Adapter\\": "Adapter/",
-            "Composite\\": "Composite/"
+            "Composite\\": "Composite/",
+            "Decorator\\": "Decorator/",
+            "Factory\\": "Factory/"
         }
     }
 }
